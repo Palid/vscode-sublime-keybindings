@@ -66,6 +66,9 @@
     "dependencies": {
         "relaxed-json": "^1.0.3"
     },
+      "capabilities": {
+        "virtualWorkspaces": true
+      },
     "contributes": {
         "menus": {
             "commandPalette": [
